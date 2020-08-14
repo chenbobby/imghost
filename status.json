@@ -5,11 +5,11 @@
   "bobby": false,
   "chris": false,
   "emma": false,
-  "eric": true,
+  "eric": false,
   "geoffroy": false,
   "kien": false,
   "killian": false,
   "linjia": true,
-  "mike": false,
+  "mike": true,
   "wei": false
 }
