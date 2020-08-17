@@ -1,15 +1,15 @@
 {
-  "aibhne": true,
+  "aibhne": false,
   "ailin": false,
-  "beth": true,
-  "bobby": true,
+  "beth": false,
+  "bobby": false,
   "chris": false,
   "emma": false,
-  "eric": true,
+  "eric": false,
   "geoffroy": false,
   "kien": false,
-  "killian": true,
-  "linjia": true,
-  "mike": true,
+  "killian": false,
+  "linjia": false,
+  "mike": false,
   "wei": false
 }
