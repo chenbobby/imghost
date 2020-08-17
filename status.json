@@ -1,10 +1,10 @@
 {
-  "aibhne": false,
+  "aibhne": true,
   "ailin": true,
   "beth": false,
   "bobby": false,
   "chris": false,
-  "emma": true,
+  "emma": false,
   "eric": false,
   "geoffroy": true,
   "kien": true,
