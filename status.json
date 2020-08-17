@@ -8,8 +8,8 @@
   "eric": false,
   "geoffroy": true,
   "kien": true,
-  "killian": false,
-  "linjia": false,
-  "mike": false,
+  "killian": true,
+  "linjia": true,
+  "mike": true,
   "wei": false
 }
