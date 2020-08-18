@@ -7,9 +7,9 @@
   "emma": false,
   "eric": true,
   "geoffroy": true,
-  "kien": true,
+  "kien": false,
   "killian": false,
   "linjia": true,
-  "mike": false,
+  "mike": true,
   "wei": false
 }
