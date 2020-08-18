@@ -1,6 +1,6 @@
 {
   "aibhne": false,
-  "ailin": true,
+  "ailin": false,
   "beth": true,
   "bobby": true,
   "chris": true,
@@ -11,5 +11,5 @@
   "killian": false,
   "linjia": false,
   "mike": false,
-  "wei": true
+  "wei": false
 }
