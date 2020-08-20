@@ -2,7 +2,7 @@
   "aibhne": true,
   "ailin": false,
   "beth": true,
-  "bobby": false,
+  "bobby": true,
   "chris": true,
   "emma": false,
   "eric": true,
@@ -11,5 +11,5 @@
   "killian": true,
   "linjia": false,
   "mike": false,
-  "wei": true
+  "wei": false
 }
